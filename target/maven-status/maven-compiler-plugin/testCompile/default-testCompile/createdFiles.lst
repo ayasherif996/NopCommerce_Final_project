@@ -1,0 +1,10 @@
+org\example\AllPages\P02_homePage.class
+org\example\stepDefinition\TC02_Currencies.class
+org\example\stepDefinition\Hooks.class
+org\example\stepDefinition\TC01_login.class
+org\example\stepDefinition\TC03_Search.class
+org\example\stepDefinition\TC04_hoverCategories.class
+org\example\testRunner\Runner.class
+org\example\AllPages\P00_Register.class
+org\example\stepDefinition\TC00_Register.class
+org\example\AllPages\P01_login.class
